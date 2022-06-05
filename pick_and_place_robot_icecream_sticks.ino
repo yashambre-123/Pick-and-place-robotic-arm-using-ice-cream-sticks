@@ -51,4 +51,5 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly: 
+  // The above code is not put in the void loop because the model didn't handle sudden changes.
 }
